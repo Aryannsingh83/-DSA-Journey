@@ -43,9 +43,9 @@ The objective is to strengthen my programming fundamentals, improve logical thin
 
 | Platform | Profile |
 |---|---|
-| LeetCode | [My Profile](YOUR_LEETCODE_URL) |
+| LeetCode | [My Profile](https://leetcode.com/u/Aryannsingh83/) |
 | CodeChef | [My Profile](YOUR_CODECHEF_URL) |
-| Codeforces | [My Profile](YOUR_CODEFORCES_URL) |
+| Codeforces | [My Profile](https://codeforces.com/profile/Aryannsingh83) |
 | HackerRank | [My Profile](YOUR_HACKERRANK_URL) |
 
 ## Repository Structure
